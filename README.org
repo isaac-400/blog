@@ -12,8 +12,8 @@ I originally produced it by hand with HTML/CSS, but now that I need to add more 
 - [[https:github.com/oxalorg/sakura][sakura.css]]
   a very nice CSS template
 
-** MLP:
-*** TODO Publishing
-I want to be able to transform my notes into posts
-*** TODO CV
+** MLP: [0/2]
+- [ ] Publishing
+  I want to be able to transform my notes into posts
+- [-] CV
 I want to be able to maintain my CV on my site
