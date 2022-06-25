@@ -1,0 +1,19 @@
+#+TITLE: My Blog
+#+AUTHOR: Isaac Feldman
+
+This is the repository for my personal website/blog.
+I originally produced it by hand with HTML/CSS, but now that I need to add more posts I'm taking a different approach.
+
+** The Stack:
+- Emacs
+  Emacs already is where I write everything, so I might as well use it to write blog posts
+- Org-publish
+  A way to export HTML directly from Emacs which people have found great success
+- [[https:github.com/oxalorg/sakura][sakura.css]]
+  a very nice CSS template
+
+** MLP:
+*** TODO Publishing
+I want to be able to transform my notes into posts
+*** TODO CV
+I want to be able to maintain my CV on my site
