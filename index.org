@@ -1,0 +1,21 @@
+#+TITLE: Isaac Feldman's Site
+#+INCLUDE: "files/header.html" export html
+#+OPTIONS: num:nil p:nil pri:nil stat:nil tags:nil tasks:nil tex:nil timestamp:nil toc:nil title:nil
+[[file:images/isaac.webp]]
+
+- Email: [[mailto:isaac.c.feldman.23@dartmouth.edu][isaac.c.feldman.23@dartmouth.edu]] 
+- Linkedin: [[https://www.linkedin.com/in/isaac-c-feldman/][https://www.linkedin.com/in/isaac-c-feldman/]]
+- CV: [[file:files/cv.pdf][CV.pdf]]
+  
+** Bio
+A student at Dartmouth College studying computer science and linguistics who designs books, posters and other artifacts.
+I also spend my time volunteering with Access Dartmouth.
+
+** Publications
+- [[http://dx.doi.org/10.18653/v1/2020.coling-main.351][NMT Models with Back-Translation for the Extremely Low-Resource Indigenous Language Bribri]] /(2020)/
+Applying state-of-the-art techniques to the machine translation of indigenous languges.
+
+** Posts
+
+None yet! Check back here soon
+
