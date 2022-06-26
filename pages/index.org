@@ -2,13 +2,13 @@
 #+INCLUDE: "files/header.html" export html
 #+OPTIONS: num:nil p:nil pri:nil stat:nil tags:nil tasks:nil tex:nil timestamp:nil toc:nil title:nil
 
-#+CAPTION: A photo of Isaac.
-[[file:images/isaac.jpg]]
+
+[[file:../assets/images/isaac.jpg]]
 
 
 - Email: [[mailto:isaac.c.feldman.23@dartmouth.edu][isaac.c.feldman.23@dartmouth.edu]] 
 - Linkedin: [[https://www.linkedin.com/in/isaac-c-feldman/][https://www.linkedin.com/in/isaac-c-feldman/]]
-- CV: [[file:files/cv.pdf][CV.pdf]]
+- CV: [[file:../assets/files/cv.pdf][CV.pdf]]
   
 ** Bio
 A student at Dartmouth College studying computer science and linguistics who designs books, posters and other artifacts.
